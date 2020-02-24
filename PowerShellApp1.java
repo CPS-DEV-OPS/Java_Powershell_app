@@ -32,8 +32,7 @@ public class PowerShellApp1 {
 
 		stderr.close();
 		System.out.println("Done");
-		getCredentials(creds);
-
+		
 	}
 
 }
